@@ -2,8 +2,6 @@
 
 ![Slider Preview](https://images.ctfassets.net/zlsyc9paq6sa/6wX3r2sDGHSPjMEmIk8nSi/5f9e6581fe9b7bf9cf721ffb14aad6b2/image_slider_preview.gif)
 
-### Demo: [https://image-slider-madza.vercel.app](https://image-slider-madza.vercel.app)
-
 ---
 
 ## Requirements
@@ -15,14 +13,14 @@ Tested on React 18.2.0 and NextJS 14.1.0.
 ## Installation
 
 ```javascript
- npm install @madzadev/image-slider
+ npm install @drylikov/Image_Slider
 ```
 
 ## Usage
 
 ```javascript
-import Slider from "@madzadev/image-slider";
-import "@madzadev/image-slider/dist/index.css";
+import Slider from "@drylikov/Image_Slider";
+import "@drylikov/Image_Slider/dist/index.css";
 ```
 
 ```javascript
